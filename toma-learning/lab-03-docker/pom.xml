@@ -3,17 +3,22 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
+        <artifactId>toma-learning</artifactId>
         <groupId>com.toma.framework</groupId>
-        <artifactId>toma-example</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>toma-learning</artifactId>
+
+    <artifactId>lab-03-docker</artifactId>
     <packaging>pom</packaging>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
     <modules>
-        <module>lab-01-database-version-control</module>
-        <module>lab-02-design-patterns</module>
-        <module>lab-03-docker</module>
+        <module>lab-03-docker-build-example</module>
     </modules>
 
 </project>
