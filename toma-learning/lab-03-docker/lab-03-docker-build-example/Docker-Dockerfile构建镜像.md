@@ -72,7 +72,7 @@ MAINTAINER toma
 
 ##### 构建镜像
 
-> #构建镜像 -t 表示指定  镜像仓库名称/镜像名称:镜像标签 . 表示使用当前目录下的Dockerfile
+> 构建镜像 -t 表示指定  镜像仓库名称/镜像名称:镜像标签 . 表示使用当前目录下的Dockerfile
 >
 > docker build -t toma3610/example:latest .
 
