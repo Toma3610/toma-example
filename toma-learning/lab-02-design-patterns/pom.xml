@@ -18,6 +18,7 @@
         <module>lab-02-design-patterns-abstract-factory</module>
         <module>lab-02-design-patterns-builder-pattern</module>
         <module>lab-02-design-patterns-prototype-pattern</module>
+        <module>lab-02-design-patterns-command-pattern</module>
     </modules>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
