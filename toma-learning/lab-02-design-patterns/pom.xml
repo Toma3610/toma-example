@@ -20,6 +20,7 @@
         <module>lab-02-design-patterns-prototype-pattern</module>
         <module>lab-02-design-patterns-command-pattern</module>
         <module>lab-02-design-patterns-strategy-pattern</module>
+        <module>lab-02-design-patterns-template-pattern</module>
     </modules>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
