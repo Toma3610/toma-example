@@ -21,6 +21,7 @@
         <module>lab-02-design-patterns-command-pattern</module>
         <module>lab-02-design-patterns-strategy-pattern</module>
         <module>lab-02-design-patterns-template-pattern</module>
+        <module>lab-02-design-patterns-state-pattern</module>
     </modules>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
