@@ -1,4 +1,4 @@
-package com.toma.framework.lab03leetcodebuild;
+package com.toma.framework.lab03leetcodebuild.algorithm;
 
 import java.util.Arrays;
 
