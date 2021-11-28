@@ -1,4 +1,4 @@
-package com.toma.framework.lab04java8base.lambda;
+package com.toma.framework.lab05liteflow;
 
 import java.util.Arrays;
 import java.util.List;
