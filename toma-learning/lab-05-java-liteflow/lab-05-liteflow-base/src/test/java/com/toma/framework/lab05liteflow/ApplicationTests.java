@@ -35,7 +35,7 @@ class ApplicationTests {
 //        DefaultSlot chainSyncGroup1 = this.flowExecutor.execute("chainSyncGroup1", "");
 //        log.info("异步执行 并行组:{}", chainSyncGroup1);
 
-        LiteflowResponse<BaseSlot> chainOneEnd = this.flowExecutor.execute2Resp("chainOneEnd", "", BaseSlot.class);
+        LiteflowResponse<BaseSlot> chainOneEnd = this.flowExecutor.execute2Resp("chainOneEnd", "我是 liteFlow", BaseSlot.class);
         log.info("异步执行结束再执行后面的组件:{}", chainOneEnd);
     }
 
